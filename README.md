@@ -8,11 +8,11 @@ CIFAR-10 is a well-known benchmark dataset consisting of **60,000 32×32 color i
 
 ## Key Features
 
-->  **Custom CNN Architecture** with 3 convolutional layers and fully connected layers
-->  **Training and Evaluation Pipeline** with loss tracking and accuracy metrics
-->  **Data Augmentation** using PyTorch transforms (normalization, tensor conversion)
-->  **Model Persistence** - Save and load trained models
-->  **Prediction Interface** - Test on custom 32×32 images with accuracy evaluation
+-  **Custom CNN Architecture** with 3 convolutional layers and fully connected layers
+-  **Training and Evaluation Pipeline** with loss tracking and accuracy metrics
+-  **Data Augmentation** using PyTorch transforms (normalization, tensor conversion)
+-   **Model Persistence** - Save and load trained models
+-  **Prediction Interface** - Test on custom 32×32 images with accuracy evaluation
 
 ##  Model Architecture
 
