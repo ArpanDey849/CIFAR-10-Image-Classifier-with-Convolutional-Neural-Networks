@@ -1,4 +1,4 @@
-# CIFAR-10-Image-Classifier-with-Convolutional-Neural-Networks
+# CIFAR-10 Image Classifier with Convolutional Neural Networks(CNN)
 
 # Project Overview
 
