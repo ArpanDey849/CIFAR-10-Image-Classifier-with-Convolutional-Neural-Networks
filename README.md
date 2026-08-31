@@ -18,7 +18,7 @@ CIFAR-10 is a well-known benchmark dataset consisting of **60,000 32×32 color i
 
 CNN Architecture:
 
-### Convolutinal layers(convo layers+pulling layers stacked together):
+### Convolutional layers(convo layers+pulling layers stacked together):
 - Conv Layer 1: 3 → 32 filters, 3×3 kernel, ReLU, MaxPool 2×2
 - Conv Layer 2: 32 → 64 filters, 3×3 kernel, ReLU, MaxPool 2×2
 - Conv Layer 3: 64 → 128 filters, 3×3 kernel, ReLU, MaxPool 2×2
