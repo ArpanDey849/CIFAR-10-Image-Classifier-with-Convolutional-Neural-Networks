@@ -17,10 +17,10 @@ CIFAR-10 is a well-known benchmark dataset consisting of **60,000 32×32 color i
 ##  Model Architecture
 
 CNN Architecture:
-->Conv Layer 1: 3 → 32 filters, 3×3 kernel, ReLU, MaxPool 2×2
--> Conv Layer 2: 32 → 64 filters, 3×3 kernel, ReLU, MaxPool 2×2
--> Conv Layer 3: 64 → 128 filters, 3×3 kernel, ReLU, MaxPool 2×2
--> Flatten Layer
--> Fully Connected Layers:
--> Linear: 128×4×4 → 256 neurons, ReLU
--> Linear: 256 → 10 neurons (output classes)
+├── Conv Layer 1: 3 → 32 filters, 3×3 kernel, ReLU, MaxPool 2×2
+├── Conv Layer 2: 32 → 64 filters, 3×3 kernel, ReLU, MaxPool 2×2
+├── Conv Layer 3: 64 → 128 filters, 3×3 kernel, ReLU, MaxPool 2×2
+├── Flatten Layer
+└── Fully Connected Layers:
+├── Linear: 128×4×4 → 256 neurons, ReLU
+└── Linear: 256 → 10 neurons (output classes)
